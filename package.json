@@ -1,7 +1,7 @@
 {
   "name": "quiz-app",
-  "homepage": "https://riteshray07.github.io/Quiz-App",
-  "private": true,
+  "homepage": "https://riteshray07.github.io/Quiz-App/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
